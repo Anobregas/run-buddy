@@ -1,14 +1,16 @@
-# run-buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness taining services
+A website that offers fitness training services. 
 
-## Built with 
+## Built With
 * HTML
-*CSS
+* CSS
 
-#Website
-https://anobregas.github.io/run-buddy/
+## Website
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with Made with ❤️ by Austin Nobregas
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
