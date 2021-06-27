@@ -8,7 +8,7 @@ A website that offers fitness taining services
 *CSS
 
 #Website
-https://lernantino.github.io/run-buddy/
+https://anobregas.github.io/run-buddy/
 
 ## Contribution
 Made with Made with ❤️ by Austin Nobregas
