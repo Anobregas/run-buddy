@@ -102,6 +102,19 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
+.hero-cta {
+    color: #fce138;
+    margin-right: 40%;
+    text-align: right;
+    margin-left: 15%;
+}
+.hero-cta h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+.hero-cta p {
+    font-size: 18px;
+}
 /* hero styling end */  
 .intro {
     text-align: center;
